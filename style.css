@@ -1,0 +1,53 @@
+body {
+ background: linear-gradient(#60ebeb 0%, #27ae60 100%);
+    text-align: center;
+}
+
+#kv {
+    height: 500px;
+    width: 600px;
+}
+#m {
+    color: red;
+    font-family: cursive;
+    font-style: italic;
+    font-size: 75px;
+}
+#t {
+    color: dimgrey;
+}
+#ab {
+    font-size: 59px;
+    color: chartreuse;
+    font-family: cursive;
+}
+#k {
+    text-align: center;
+    font-size: 50px;
+    font-family: inherit;
+}
+#wh {
+    text-align: center;
+}
+html {
+    text-align: center;
+}
+#k2 {
+    font-size: 60px;
+    font-family: cursive;
+    color: crimson;
+}
+#kkl {
+    font-size: 80px;
+    font-family: cursive;
+    color: aqua;
+}
+#kkl2 {
+   font-size: 60px;
+   font-family: monospace;
+   color: bisque;
+}
+#kv2img {
+    height: 100px;
+    width: 100px;
+}
